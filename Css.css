@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+    text-size-adjust: 20px;
+}
+header{
+    background-color: blue;
+    text-align:center;
+}
+main{
+    background-color: silver;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+li{
+    color: red;
+}
